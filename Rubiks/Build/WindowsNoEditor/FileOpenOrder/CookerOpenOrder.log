@@ -1,0 +1,338 @@
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/defaultMat.uasset" 0
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Meshs/Crate.uasset" 1
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Objects/AmmoObject.uasset" 2
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/AmmoObject.uasset" 3
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 4
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 5
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 6
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 7
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 8
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPersonRun.uasset" 9
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 10
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 11
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 12
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 14
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 15
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 16
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 17
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 18
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 19
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 20
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 21
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 22
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 23
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 24
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 25
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 26
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 27
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 28
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 29
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 30
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 31
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 32
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/AI/BP_EnemyAICharacter.uasset" 33
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_EnemyAICharacter.uasset" 34
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Black.uasset" 35
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Blue.uasset" 36
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Orange.uasset" 37
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Yellow.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 39
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 40
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 41
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 42
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Geometry/Meshes/1M_Cube.uasset" 43
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Materials/M_Basic_Wall.uasset" 44
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 45
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPerson/Meshes/RampMaterial.uasset" 46
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 47
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 48
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room1.uasset" 49
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room1.uasset" 50
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Red.uasset" 51
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room2.uasset" 52
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room2.uasset" 53
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Green.uasset" 54
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room3.uasset" 55
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room3.uasset" 56
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room4.uasset" 57
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room4.uasset" 58
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/White.uasset" 59
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Shapes/Shape_Cube.uasset" 60
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room5.uasset" 61
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room5.uasset" 62
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room6.uasset" 63
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room6.uasset" 64
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room7.uasset" 65
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room7.uasset" 66
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Rooms/BP_Room8.uasset" 67
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/BP_Room8.uasset" 68
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Meshs/Health.uasset" 69
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Objects/HealthObject.uasset" 70
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/HealthObject.uasset" 71
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Textures/MenuWallpaper.uasset" 72
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Widgets/MainMenu.uasset" 73
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/MainMenu.uasset" 74
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_MacroVariation.uasset" 75
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 76
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 77
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 78
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Materials/M_Tech_Panel.uasset" 79
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Objects/ReceiverObject.uasset" 80
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ReceiverObject.uasset" 81
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Objects/TriggerObject.uasset" 82
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/TriggerObject.uasset" 83
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset" 84
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_Idle.uasset" 85
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_JumpEnd.uasset" 86
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_JumpLoop.uasset" 87
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_JumpStart.uasset" 88
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_Run.uasset" 89
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_AnimBP.uasset" 90
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Mesh/FirstPersonAnimBlueprint_Copy.uasset" 91
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Textures/UE4_LOGO_CARD.uasset" 92
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 93
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset" 94
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset" 95
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Meshes/BaseMaterial.uasset" 96
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Meshes/CubeMaterialOverride.uasset" 97
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Textures/FirstPersonCrosshair.uasset" 98
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPerson_Fire.uasset" 99
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Animations/FirstPersonFire_Montage.uasset" 100
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Meshes/FirstPersonProjectileMaterial.uasset" 101
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Meshes/FirstPersonProjectileMesh.uasset" 102
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPersonCPP/Blueprints/FirstPersonProjectile.uasset" 103
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Audio/FirstPersonTemplateWeaponFire02.uasset" 104
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 105
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 106
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 107
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 108
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 109
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 110
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 111
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 112
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Textures/UE4_Mannequin__normals.uasset" 113
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 114
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset" 115
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset" 116
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/Character/Mesh/SK_Mannequin_Arms.uasset" 117
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 118
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 119
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 120
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 121
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset" 122
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 123
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 124
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 125
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Textures/T_FPGun_M.uasset" 126
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Textures/T_FPGun_N.uasset" 127
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset" 128
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset" 129
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPerson/FPWeapon/Mesh/SK_FPGun.uasset" 130
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Textures/Ammo_Icon.uasset" 131
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Textures/Health_Icon.uasset" 132
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Widgets/HUD.uasset" 133
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset" 134
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Geometry/Meshes/CubeMaterial.uasset" 135
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 136
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Geometry/Meshes/TemplateFloor.uasset" 137
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 138
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Audio/Fire01.uasset" 139
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Audio/Fire01_Cue.uasset" 140
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 141
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 142
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 143
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 144
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 145
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 146
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 147
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 148
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 149
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/ThirdPersonCPP/Blueprints/ThirdPersonCharacter.uasset" 150
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 151
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 152
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 153
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 154
+"../../../Engine/Content/BasicShapes/Cone.uasset" 155
+"../../../Engine/Content/BasicShapes/Cube.uasset" 156
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 157
+"../../../Engine/Content/BasicShapes/Plane.uasset" 158
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 159
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 160
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 161
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 162
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 163
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 164
+"../../../Engine/Content/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.uasset" 165
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 166
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 167
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 168
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 169
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 170
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 171
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 172
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 173
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 174
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 175
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 176
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 177
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 178
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 179
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 180
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 181
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 182
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 183
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 184
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 185
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 186
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 187
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 188
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 189
+"../../../Engine/Content/EditorResources/S_Note.uasset" 190
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 191
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 192
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 193
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 194
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 195
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 196
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 197
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 198
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 199
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 200
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 202
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 204
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 206
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 208
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 209
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 210
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 211
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 212
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 213
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 214
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 215
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 216
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 217
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 218
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 219
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 220
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 221
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 223
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 224
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 225
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 226
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 228
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 229
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 230
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 231
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 232
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 233
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 234
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 235
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 236
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 237
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 238
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 239
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 240
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 241
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 242
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 243
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 244
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 245
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 246
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 247
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 248
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 249
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 250
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 251
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 252
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 253
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 254
+"../../../Engine/Content/EngineResources/Black.uasset" 255
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 256
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 257
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 258
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 259
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 260
+"../../../Engine/Content/EngineSounds/Master.uasset" 261
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 262
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 263
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 264
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 265
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 266
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 267
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 268
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 269
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 270
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 271
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 272
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 273
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 274
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 275
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 276
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 277
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 278
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 279
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 280
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 281
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 282
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 283
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 284
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 285
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 286
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 287
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 288
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 289
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 290
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 291
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 292
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 293
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 294
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 295
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 296
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 297
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 298
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 299
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 300
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 301
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 302
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 303
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 304
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 305
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 306
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 307
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 308
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 309
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 310
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 311
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 312
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Widgets/LoseMenu.uasset" 313
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/LoseMenu.uasset" 314
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Map/Lose.umap" 315
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Map/MainMenu.umap" 316
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 317
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 318
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 319
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 320
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 321
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 322
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 323
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 324
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 325
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Textures/Target.uasset" 326
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Materials/Target_Mat.uasset" 327
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 328
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Objects/TargetObject.uasset" 329
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Map/RubiksLevel_BuiltData.uasset" 330
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 331
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Map/RubiksLevel.umap" 332
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Widgets/WinMenu.uasset" 333
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/WinMenu.uasset" 334
+"F:/Documents/Univeristy Documents/Finished Projects/RubiksCubeCW/LJMUFPS425/Content/Rubiks/Map/Win.umap" 335
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 336
+"../../../Engine/Content/Maps/Entry.umap" 337
